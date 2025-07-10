@@ -1,4 +1,3 @@
 # PyGame Web Demo
 
-pip3 install pygbag --user --upgrade
-python -m pygbag .
+Follow instructions in https://pygame-web.github.io/wiki/pygbag/
